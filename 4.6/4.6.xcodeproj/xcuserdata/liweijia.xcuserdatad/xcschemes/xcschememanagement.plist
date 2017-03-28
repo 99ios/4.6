@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>4.6.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>其他常用操作.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>日期格式转换.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>获取日期与时间.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>C0F29C221E8A397300F207C6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C0F29C301E8A398100F207C6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C0F29C3B1E8A399C00F207C6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C0F29C461E8A39B800F207C6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
